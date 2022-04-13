@@ -1,0 +1,29 @@
+{
+  "name": "user-authentication-wds",
+  "version": "1.0.0",
+  "description": "Simple user authentication example by WDS.",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jicaffo/user-authentication-wds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jicaffo/user-authentication-wds/issues"
+  },
+  "homepage": "https://github.com/Jicaffo/user-authentication-wds#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "type": "module"
+}
