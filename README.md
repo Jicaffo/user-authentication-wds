@@ -1,2 +1,3 @@
 # user-authentication-wds
-Simple user authentication example by WDS.
+- VERY simple user authentication example with encryption by WDS.
+- Only responds with 200 on correct login, no further logic implemented.
